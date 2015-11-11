@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "he there"
+echo "Hi there"
 exit 0;
